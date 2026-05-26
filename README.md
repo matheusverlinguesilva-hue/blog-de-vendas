@@ -1,2 +1,2 @@
 # blog-de-vendas
-Aprendam a vender produtios aleatorios
+Aprendam a vender produtos aleatorios
